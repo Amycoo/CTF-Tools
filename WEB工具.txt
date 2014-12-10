@@ -1,0 +1,10 @@
+整体扫描
+	IBM Security AppScan	//IBM神器
+	Domian3.6	//明小子的旁注入侵专用工具
+	
+浏览器插件
+	hack-http-headers	//http头部截取
+辅助利用
+	sqlmap	//
+	NoSQLMap-0.5	//
+	
