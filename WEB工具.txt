@@ -1,10 +1,11 @@
-ÕûÌåÉ¨Ãè
-	IBM Security AppScan	//IBMÉñÆ÷
-	Domian3.6	//Ã÷Ğ¡×ÓµÄÅÔ×¢ÈëÇÖ×¨ÓÃ¹¤¾ß
+æ•´ä½“æ‰«æ
+	IBM Security AppScan	//IBMç¥å™¨
+	Domian3.6	//æ˜å°å­çš„æ—æ³¨å…¥ä¾µä¸“ç”¨å·¥å…·
 	
-ä¯ÀÀÆ÷²å¼ş
-	hack-http-headers	//httpÍ·²¿½ØÈ¡
-¸¨ÖúÀûÓÃ
+æµè§ˆå™¨æ’ä»¶
+	hack-http-headers	//httpå¤´éƒ¨æˆªå–
+	firebug               //
+è¾…åŠ©åˆ©ç”¨
 	sqlmap	//
 	NoSQLMap-0.5	//
 	
